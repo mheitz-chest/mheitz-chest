@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mheitz-chest
-- 👀 I’m interested in Python, SQL, and ML
-- 🌱 I’m currently learning everything... never stop learning
+- 👀 I’m interested in Python, R, Docker, SQL, and ML
+- 🌱 I’m currently learning everything... never stop learning!
 - 💞️ I’m looking to collaborate on training and ML projects
 - 📫 How to reach me 
 
